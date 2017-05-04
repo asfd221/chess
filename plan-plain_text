@@ -1,0 +1,7 @@
+Primary aim is to measure a perticular arrangment on chess pieces
+Lets say we can precisely give a no for white/black signifying how good/bad an arrangement is
+Let that no be S, now for every possible move of white/black we can tell which move is better based on the resulting S for that arrangement.
+But what can be those creterias?
+better if we find out some mathematical represntation of the arrangment
+But the problem is a move can be better or  worse  depending upon the nest move.
+I don't know even if it is possible o not :)
